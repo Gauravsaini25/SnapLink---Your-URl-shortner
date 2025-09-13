@@ -1,5 +1,3 @@
----
-
 # 🔗 SnapLink – Modern URL Shortener
 
 A **full-stack URL shortener** built with **Next.js 13 (App Router)**, **NextAuth**, and **MongoDB**. SnapLink lets you **create, manage, and share** your own short links securely — all in one place.
