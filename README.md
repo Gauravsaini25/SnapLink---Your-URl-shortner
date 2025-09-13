@@ -1,5 +1,3 @@
-Perfect — let’s polish your **GitHub README description** so it’s more **visually appealing** with headings, emojis, and structured formatting 👇
-
 ---
 
 # 🔗 SnapLink – Modern URL Shortener
