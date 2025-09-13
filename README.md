@@ -6,21 +6,21 @@ A **full-stack URL shortener** built with **Next.js 13 (App Router)**, **NextAut
 
 ## 🚀 Features
 
-✅ **Secure Authentication** – User signup & login with **NextAuth + bcrypt**
-✅ **Custom Short URLs** – Pick your own short names instead of random codes
-✅ **Duplicate Prevention** – No conflicts, every short URL is unique
-✅ **Link Dashboard** – Manage all your links after logging in
-✅ **Persistent Storage** – MongoDB schema stores user + links
-✅ **Session Handling** – Session includes user info + URL list
-✅ **Real-time Feedback** – Toast notifications for success/errors
+- ✅ **Secure Authentication** – User signup & login with **NextAuth + bcrypt**
+- ✅ **Custom Short URLs** – Pick your own short names instead of random codes
+- ✅ **Duplicate Prevention** – No conflicts, every short URL is unique
+- ✅ **Link Dashboard** – Manage all your links after logging in
+- ✅ **Persistent Storage** – MongoDB schema stores user + links
+- ✅ **Session Handling** – Session includes user info + URL list
+- ✅ **Real-time Feedback** – Toast notifications for success/errors
 
 ---
 
 ## ⚙️ Tech Stack
 
-**Frontend:** ⚛️ Next.js 13, 🎨 TailwindCSS, 🔔 React-Toastify
-**Backend:** 🔐 NextAuth, 🛠️ Next.js API Routes, 🐍 Mongoose
-**Database:** 🍃 MongoDB (User schema with embedded link objects)
+- **Frontend:** ⚛️ Next.js 13, 🎨 TailwindCSS, 🔔 React-Toastify
+- **Backend:** 🔐 NextAuth, 🛠️ Next.js API Routes, 🐍 Mongoose
+- **Database:** 🍃 MongoDB (User schema with embedded link objects)
 
 ---
 
@@ -33,10 +33,10 @@ With authentication, secure storage, and unique short URLs, it’s not just a to
 
 ## 🔮 Future Roadmap
 
-✨ Analytics (click counts, traffic insights)
-✨ Expiry dates for short links
-✨ Public profile pages to share collections
-✨ QR code generation for every link
+- ✨ Analytics (click counts, traffic insights)
+- ✨ Expiry dates for short links
+- ✨ Public profile pages to share collections
+- ✨ QR code generation for every link
 
 ---
 
